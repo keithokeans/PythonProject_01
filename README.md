@@ -9,12 +9,12 @@ To run this project, you need:
 - Python 3.x installed  
 - Required libraries: **Pandas, NumPy**
 
-- ### Installing
+  ### Installing
 1. Clone the repository to your local machine:git clone https://github.com/keithokeans/PythonProject_01.git
 2. Navigate to the project folder: cd PythonProject_01
 3. Install dependencies: pip install pandas numpy
 
-4. ## Running the Test
+   ## Running the Test
 1. Open the Jupyter Notebook (`Project1_Group5.ipynb`)
 2. Run the first cell to import necessary libraries (Pandas, NumPy).
 3. Run the second cell to load the dataset (vgsales.csv).
