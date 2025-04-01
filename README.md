@@ -14,12 +14,11 @@ To run this project, you need:
 2. Navigate to the project folder: cd PythonProject_01
 3. Install dependencies: pip install pandas numpy
 
-4. ## Running the Code
+4. ## Running the Test
 1. Open the Jupyter Notebook (`Project1_Group5.ipynb`).  
 2. Run the first few cells to load the dataset (`vgsales.csv`).  
 3. Follow the transformations performed to analyze pre- and post-2005 sales trends.
 
-## Running the Tests
 ### Breakdown of Tests
 - The script checks whether **average sales before 2005** and **after 2005** are significantly different.  
 - A new column is created to classify records into "pre-2005" and "post-2005".  
