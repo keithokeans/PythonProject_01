@@ -16,8 +16,11 @@ To run this project, you need:
 
 4. ## Running the Test
 1. Open the Jupyter Notebook (`Project1_Group5.ipynb`)
-2. Run the first few cells to load the dataset (`vgsales.csv`).  
-3. Follow the transformations performed to analyze pre- and post-2005 sales trends.
+2. Run the first cell to import necessary libraries (Pandas, NumPy).
+3. Run the second cell to load the dataset (vgsales.csv).
+4. The next steps will process the data including filtering video game sales data by year, computing the average sales before and after 2005,
+   creating a new column that labels records as “pre-2005” or “post-2005”.
+5. Run all cells to complete the analysis.
 
 ### Breakdown of Tests
 - The script checks whether **average sales before 2005** and **after 2005** are significantly different.  
@@ -35,4 +38,6 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 - **Dataset:** 2016 Video Game Sales Data  
-- **Libraries Used:** Pandas, NumPy  
+- **Libraries Used:** Pandas, NumPy
+- **Reference from Course Material**
+- **Assistance from coursemates**
