@@ -15,7 +15,7 @@ To run this project, you need:
 3. Install dependencies: pip install pandas numpy
 
 4. ## Running the Test
-1. Open the Jupyter Notebook (`Project1_Group5.ipynb`).  
+1. Open the Jupyter Notebook (`Project1_Group5.ipynb`)
 2. Run the first few cells to load the dataset (`vgsales.csv`).  
 3. Follow the transformations performed to analyze pre- and post-2005 sales trends.
 
